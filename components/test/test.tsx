@@ -2,7 +2,7 @@ import React from 'react';
 
 function Test() {
     return (
-        <div>Test</div>
+        <div>This is test for ai review</div>
     );
 }
 
